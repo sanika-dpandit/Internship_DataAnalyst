@@ -17,7 +17,7 @@ This task focuses on cleaning the Netflix Titles dataset for further analysis an
 4. **Converted date fields** like `date_added` into proper datetime format.
 5. **Split `duration`** column into two new columns: `duration_value` and `duration_unit` for clarity.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python 3.9+
 - Pandas
