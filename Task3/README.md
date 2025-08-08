@@ -1,4 +1,4 @@
-# Task 4: Interactive Sales Dashboard (Power BI)
+# Task 3: Interactive Sales Dashboard (Power BI)
 
 ## Objective
 Design an **interactive dashboard** for business stakeholders using **Power BI**. The dashboard helps visualize key sales and financial KPIs and allows stakeholders to make data-driven decisions easily.
