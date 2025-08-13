@@ -36,5 +36,3 @@ The dataset consists of an `online_sales` table with the following fields:
 
 # Author
 Sanika
-GROUP BY order_year, order_month
-ORDER BY order_year, order_month;
