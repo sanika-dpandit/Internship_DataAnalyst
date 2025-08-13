@@ -4,7 +4,7 @@
 This project performs an **Exploratory Data Analysis (EDA)** on the Titanic dataset to uncover patterns, relationships, and trends affecting passenger survival rates.  
 The analysis uses **Python, Pandas, Matplotlib, and Seaborn** for both statistical and visual exploration.
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 - **Python 3**
 - **Pandas** – Data manipulation & cleaning
 - **Matplotlib** – Data visualization
@@ -19,7 +19,7 @@ The dataset used is the [Titanic dataset](https://raw.githubusercontent.com/data
 - Survival Status
 - Other demographic information
 
-## 📊 Analysis Steps
+## Analysis Steps
 1. **Data Loading & Inspection**  
    - Viewed dataset structure using `.head()`, `.info()`, `.describe()`
    - Checked missing values and target variable distribution
